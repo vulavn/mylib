@@ -26,7 +26,7 @@ publishing {
             url = uri("https://maven.pkg.github.com/vulavn/mylib")
             credentials {
                 username = 'vulavn'
-                password = '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'
+                password = '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'
             }
         }
     }
