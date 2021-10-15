@@ -25,8 +25,8 @@ publishing {
             name = "GitHubPackages" //  optional target repository name
             url = uri("https://maven.pkg.github.com/vulavn/mylib")
             credentials {
-                username = 'vulavn'
-                password = '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'
+                username = 'xxx'
+                password = 'xxx'
             }
         }
     }
