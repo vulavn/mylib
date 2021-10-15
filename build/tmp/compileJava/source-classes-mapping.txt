@@ -1,0 +1,2 @@
+com/example/object/Product.java
+ com.example.object.Product
